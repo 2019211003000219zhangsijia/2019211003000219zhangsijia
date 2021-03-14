@@ -15,7 +15,5 @@ throws IOException{
     writer.println("Hello client!!!");
 }
 public void doPost(HttpServletRequest request,HttpServletResponse response){
-
-
 }
 }

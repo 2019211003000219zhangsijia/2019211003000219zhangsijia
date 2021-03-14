@@ -13,8 +13,12 @@
 <body>
 <a href="http://www.ecjtu.jx.cn/">go to ecu </a><!--method is get-->
 <form method="get">
-    Name:<input type="text" name="name"><br/>
-    ID:<input type="text" name="id"><br/>
+    Name:<label>
+    <input type="text" name="name">
+</label><br/>
+    ID:<label>
+    <input type="text" name="id">
+</label><br/>
     <input type="submit" value="send data to server"/>
 </form>
 </body>
