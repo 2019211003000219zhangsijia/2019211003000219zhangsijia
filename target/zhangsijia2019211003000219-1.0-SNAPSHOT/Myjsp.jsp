@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<a href="http://www.ecjtu.jx.cn/">go to ecu </a><!--method is get-->
+<a href="http://www.ecjtu.jx.cn/">go to ecjtu </a><!--method is get-->
 <form method="get">
     Name:<label>
     <input type="text" name="name">
