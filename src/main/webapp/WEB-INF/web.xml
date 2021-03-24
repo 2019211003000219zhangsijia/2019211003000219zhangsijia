@@ -8,7 +8,6 @@
         <servlet-class>com.dabing.week2.demo.HelloWorldServlet</servlet-class>
     </servlet>
     <servlet>
-
         <servlet-name>LifeCycleServlet</servlet-name>
         <servlet-class>dabing.week3.demo.LifeCycleServlet</servlet-class>
     </servlet>
